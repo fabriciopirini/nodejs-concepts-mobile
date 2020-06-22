@@ -22,7 +22,9 @@
 
 ## Demo
 
-![Demo](demo.gif)
+<p id="demo" align="center">
+  <img src="https://github.com/fabriciopirini/nodejs-concepts-mobile/blob/master/demo.gif?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ## :rocket: About the challenge
 
